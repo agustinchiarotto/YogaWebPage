@@ -1,5 +1,7 @@
 # Yoga
 
+This project is a web page for a Yoga place in Neuquen. I'm still working on it.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
 ## Development server
